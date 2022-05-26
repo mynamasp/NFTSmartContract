@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Prasanna"
+    }, {
+      "trait_type" : "Facial expression",
+      "value" : "Sly fox"
+    } ],
+    "description" : "Just a random guy with stupid expresions.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmYyX9GntusTSuCgPfH4LFfqRTTGXCPNsAMLYVQ56VP13V",
+    "name" : "SP"
+}
